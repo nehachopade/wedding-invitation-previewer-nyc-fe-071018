@@ -75,6 +75,9 @@ wrapper{
   grid-template-columns: 1fr 1fr;
 }
 
+#sideDisplay {
+  position: relative;
+}
 /* Formal */
 .formalDisplay {
    /*Container*/
