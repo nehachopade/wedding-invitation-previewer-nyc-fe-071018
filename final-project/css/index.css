@@ -80,6 +80,12 @@ wrapper{
 }
 /* Formal */
 .formalDisplay {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
    /*Container*/
    width: 85%;
    height: auto;
@@ -115,6 +121,12 @@ wrapper{
 /* Spring */
 
 .springDisplay {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
   /*Container*/
   width:85%;
   border-radius: 10px;
@@ -149,6 +161,12 @@ wrapper{
 /* Art Deco */
 
 .artdecoDisplay {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
   /*Container*/
   width:85%;
   border-radius: 10px;
