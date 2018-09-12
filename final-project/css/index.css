@@ -179,7 +179,7 @@ wrapper{
   background-repeat: no-repeat;
   background-position-x: center;
 }
-
+.artdecoDisplay.transparent {opacity:0;}
 .artdecoWriteUp{
   /*Text*/
   display:block;
