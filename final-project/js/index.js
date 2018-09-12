@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
 const formal = document.querySelector("#formal");
 formal.addEventListener("click", (event) =>{
   const sideDisplay= document.getElementById('sideDisplay')
-  sideDisplay.classList.add('formalDisplay')
   sideDisplay.classList.remove('springDisplay','artdecoDisplay')
+  sideDisplay.classList.add('formalDisplay')
   
   const writeUp= document.getElementById('writeUp')
   writeUp.classList.add('formalWriteUp')
