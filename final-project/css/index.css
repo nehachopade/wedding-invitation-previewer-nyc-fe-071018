@@ -77,18 +77,14 @@ wrapper{
 
 #sideDisplay {
   position: relative;
-  opacity:0;
+  
 }
 
 
 /* Formal */
 .formalDisplay {
   position:absolute;
-  opacity:1;
-  -webkit-transition: opacity 1s ease-in-out;
-  -moz-transition: opacity 1s ease-in-out;
-  -o-transition: opacity 1s ease-in-out;
-  transition: opacity 1s ease-in-out;
+  
    /*Container*/
    width: 85%;
    height: auto;
