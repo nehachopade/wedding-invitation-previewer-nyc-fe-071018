@@ -77,11 +77,15 @@ wrapper{
 
 #sideDisplay {
   position: relative;
+  opacity:0;
 }
+
+
 /* Formal */
 .formalDisplay {
   position:absolute;
   left:0;
+  opacity:1;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
@@ -123,6 +127,7 @@ wrapper{
 .springDisplay {
   position:absolute;
   left:0;
+  opacity:1;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
@@ -163,6 +168,7 @@ wrapper{
 .artdecoDisplay {
   position:absolute;
   left:0;
+  opacity:1;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
