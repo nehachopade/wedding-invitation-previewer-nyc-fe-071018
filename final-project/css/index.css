@@ -89,6 +89,7 @@ wrapper{
    background-size: contain;
    background-repeat: no-repeat;
    background-position-x: center;
+   transition-timing-function: ease-in-out;
 }
 
 .formalWriteUp{
