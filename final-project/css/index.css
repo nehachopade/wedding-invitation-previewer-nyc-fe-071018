@@ -89,7 +89,10 @@ wrapper{
    background-size: contain;
    background-repeat: no-repeat;
    background-position-x: center;
-   transition-timing-function: ease-in-out;
+   -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
 }
 
 .formalWriteUp{
