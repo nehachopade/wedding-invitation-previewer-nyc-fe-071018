@@ -84,7 +84,6 @@ wrapper{
 /* Formal */
 .formalDisplay {
   position:absolute;
-  left:0;
   opacity:1;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
