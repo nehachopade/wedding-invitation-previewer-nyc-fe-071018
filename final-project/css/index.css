@@ -76,14 +76,13 @@ wrapper{
 }
 
 #sideDisplay {
-  position: relative;
-  
+  transition: background-image 1s;
 }
 
 
 /* Formal */
 .formalDisplay {
-  position:absolute;
+  
   
    /*Container*/
    width: 85%;
